@@ -1,0 +1,9 @@
+{
+  "name": "Boss Move AI",
+  "description": "Comprehensive business management for moving companies: AI inventory analysis, scheduling, invoicing, and team coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
